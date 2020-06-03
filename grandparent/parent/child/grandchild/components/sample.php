@@ -1,0 +1,1 @@
+Hello! I'm a COMPONENT in the MODULE!
